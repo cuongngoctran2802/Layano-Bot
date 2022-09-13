@@ -1,0 +1,11 @@
+{
+  "token": "Discord-Bot-Token-goes-here!",
+  "prefix": "l",
+  "youtubeCookie": "",
+  "spotify_api": {
+        "enabled": false, "_COMMENT_": "Nếu đặt thành false, nếu bạn muốn loại bỏ, khi true, bạn có thể tải danh sách phát spotify với hơn 100 bản nhạc sẵn",
+        "clientSecret": "",
+        "clientId": ""
+  },
+  "loadSlashsGlobal": true, "_COMMENT_": "Nếu đặt nó thành true, khi Lệnh Slash của bạn đã sẵn sàng, đặt false ngay lập tức rồi đặt true sẽ tải chậm nhưng ổn định! (có GLOBAL/GUILD COMMANDS, DISCORD DOCS!)"
+}
